@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @TamiELB
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me IDK
-- ⚡ Fun fact: No fun fact
+![Bad General Cat](https://media.giphy.com/media/KHhs4BXpy5dba/giphy.gif)
